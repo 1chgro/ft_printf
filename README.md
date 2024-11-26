@@ -20,11 +20,6 @@ The `ft_printf` function supports the following format specifiers:
 - `%X` : Uppercase hexadecimal
 - `%%` : Literal percent sign
 
-**Additional Features**:
-- Precision and width modifiers to control the output formatting.
-- Manual memory management—no reliance on external libraries except `write`.
-- Handles edge cases and error scenarios for robust performance.
-
 ---
 
 ## Function Prototype
